@@ -25,7 +25,7 @@ pan
 (Yes, that's the difference between masking and truncating a PAN in PCI DSS
 terminology.)
 
-You may decide how much to mask (or truncated) and the character(s) that the
+You may decide how much to mask (or truncate) and the character(s) that the
 digits are replaced with:
 
 ```ruby
