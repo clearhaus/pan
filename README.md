@@ -2,6 +2,10 @@
 
 Cares about PANs ([Primary Account Number](https://en.wikipedia.org/wiki/Payment_card_number)).
 
+[![Build status](https://circleci.com/gh/clearhaus/pan.svg?style=shield&circle-token=82cac2efccdb80ea7c9663f7e41aeed591954cab)](https://circleci.com/gh/clearhaus/pan)
+[![Code Climate](https://codeclimate.com/github/clearhaus/pan/badges/gpa.svg)](https://codeclimate.com/github/clearhaus/pan)
+[![License](http://img.shields.io/license/MIT.png?color=green)](http://opensource.org/licenses/MIT)
+
 ## Examples
 
 ```ruby
